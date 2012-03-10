@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <default_user>Chris Johnson</default_user>
+  <root_path>E:\Programs\SpeechFamiliar\bin</root_path>
+  <plugins_path>E:\Dev\SpeechFamiliar\SpeechFamiliar\test\plugins</plugins_path>
+  <MetaHub_path>E:\Programs\MetaHub</MetaHub_path>
+</Configuration>

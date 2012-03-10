@@ -1,0 +1,7 @@
+﻿<GRAMMAR>
+  <RULE name="0">
+    <PHRASE>
+      <PHRASE>switch to</PHRASE>
+    </PHRASE>
+  </RULE>
+</GRAMMAR>
