@@ -28,7 +28,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SpeechFamiliar", "..\..\Pro
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "54850"
+		VWDPort = "59262"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Plugins\Controller\Controller.csproj", "{E0ABD321-B333-472A-B89F-8F2F0080A03F}"
@@ -47,8 +47,8 @@ Global
 		{2BF71048-756E-4D33-AD13-548EFB128A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF71048-756E-4D33-AD13-548EFB128A41}.Debug|x64.ActiveCfg = Debug|x64
 		{2BF71048-756E-4D33-AD13-548EFB128A41}.Debug|x64.Build.0 = Debug|x64
-		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|x64.ActiveCfg = Release|x64
 		{2BF71048-756E-4D33-AD13-548EFB128A41}.Release|x64.Build.0 = Release|x64
 		{429F8018-78DA-4504-9296-088534DE69B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -92,8 +92,8 @@ Global
 		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Debug|x64.ActiveCfg = Debug|x64
 		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Debug|x64.Build.0 = Debug|x64
-		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|x64.ActiveCfg = Release|x64
 		{B88CAFCA-3695-44BE-B5B0-48097CFDE4D8}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
